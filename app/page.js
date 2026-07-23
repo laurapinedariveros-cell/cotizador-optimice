@@ -1,5 +1,5 @@
-import LevantamientoApp from "../components/LevantamientoApp";
+import ClientIntakeForm from "../components/ClientIntakeForm";
 
 export default function Home() {
-  return <LevantamientoApp />;
+  return <ClientIntakeForm />;
 }
